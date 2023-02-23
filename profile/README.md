@@ -1,1 +1,3 @@
-# TEST
+# | NOTE THIS README IS PUBLIC | 
+
+If applied, this commit will...
